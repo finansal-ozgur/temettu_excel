@@ -3,6 +3,8 @@
 Bu dosya, kendi uzun vadeli temettü yatırımcılığı sürecime ait tüm verilerimin takibi için oluşturulmuştur. 
 Twitter'daki takipçilerimin talebi üzerine burdan paylaşılmıştır. 
 
+[DOSYAYI İNDİR](https://github.com/finansal-ozgur/temettu_excel/blob/master/temettu_paylasim.xlsm?raw=true)
+
 ## Özellikler
 
 #### Portföy 
