@@ -47,6 +47,9 @@ Birçok alan sizin hisselerinize göre otomatik düzenlenecektir.
 
 ##### Mevcut alım/satım işlemlerimi nasıl girecegim?
 Alım satım sekmelerindeki tablolara toplu veri yapışıtarabilirsiniz. Formata uyun yeter. 
-
+ 
 ##### Güncel fiyatlar nasıl alınıyor?
 Güncelle butonuna bastığınız zaman isyatirim'dan çekmeye çalışıyor. Bazen hata alabiliyor. 
+
+###### 
+http://excelerator.solutions/2017/08/16/import-json-to-excel-using-vba/ adresinden jsonConverter.bas dosyası ansıl ekleneceği anlatılıyor
