@@ -5,6 +5,8 @@ Twitter'daki takipçilerimin talebi üzerine burdan paylaşılmıştır.
 
 [DOSYAYI İNDİR](https://github.com/finansal-ozgur/temettu_excel/blob/master/temettu_paylasim.xlsm?raw=true)
 
+[ORNEK GRAFİK DOSYASI](https://github.com/finansal-ozgur/temettu_excel/blob/master/ornek_grafik.xlsx?raw=true)
+
 ## Özellikler
 
 #### Portföy 
