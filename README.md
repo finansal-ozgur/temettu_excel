@@ -7,6 +7,8 @@ Twitter'daki takipçilerimin talebi üzerine burdan paylaşılmıştır.
 
 [ORNEK GRAFİK DOSYASI](https://github.com/finansal-ozgur/temettu_excel/blob/master/ornek_grafik.xlsx?raw=true)
 
+[GETIRI HESAPLAMA DOSYASI](https://github.com/finansal-ozgur/temettu_excel/raw/master/Getiri%20hesaplama.xlsx?raw=true)
+
 ## Özellikler
 
 #### Portföy 
